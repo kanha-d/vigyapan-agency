@@ -1,0 +1,471 @@
+{
+  "settings": [
+    {
+      "key": "siteName",
+      "value": "VIGYAPAN"
+    },
+    {
+      "key": "siteTagline",
+      "value": "Advertising Agency"
+    },
+    {
+      "key": "logoText",
+      "value": "VIGYAPAN"
+    },
+    {
+      "key": "logoSub",
+      "value": "ADVERTISING AGENCY"
+    },
+    {
+      "key": "primaryColor",
+      "value": "#f7c51e"
+    },
+    {
+      "key": "phone",
+      "value": "+91 98765 43210"
+    },
+    {
+      "key": "email",
+      "value": "info@vigyapan.in"
+    },
+    {
+      "key": "address",
+      "value": "123 Business Park, Hazratganj, Lucknow - 226001"
+    },
+    {
+      "key": "whatsapp",
+      "value": 919876543210
+    },
+    {
+      "key": "facebook",
+      "value": "https://facebook.com/"
+    },
+    {
+      "key": "instagram",
+      "value": "https://instagram.com/"
+    },
+    {
+      "key": "youtube",
+      "value": "https://youtube.com/"
+    },
+    {
+      "key": "linkedin",
+      "value": "https://linkedin.com/"
+    },
+    {
+      "key": "heroInterval",
+      "value": 4500
+    },
+    {
+      "key": "aboutEyebrow",
+      "value": "YOUR CREATIVE PARTNER"
+    },
+    {
+      "key": "aboutTitle",
+      "value": "Ideas that make your brand visible."
+    },
+    {
+      "key": "aboutText",
+      "value": "We create impactful designs, engaging content and smart strategies to help businesses grow."
+    },
+    {
+      "key": "galleryTitle",
+      "value": "Our Work"
+    },
+    {
+      "key": "gallerySubtitle",
+      "value": "Some of our recent designs & campaigns"
+    },
+    {
+      "key": "productsTitle",
+      "value": "Our Products"
+    },
+    {
+      "key": "servicesTitle",
+      "value": "Our Services"
+    },
+    {
+      "key": "plansTitle",
+      "value": "Our Plans"
+    },
+    {
+      "key": "footerText",
+      "value": "© 2026 VIGYAPAN Advertising Agency. All rights reserved."
+    },
+    {
+      "key": "contactTitle",
+      "value": ""
+    },
+    {
+      "key": "contactSubtitle",
+      "value": ""
+    },
+    {
+      "key": "logoUrl",
+      "value": "https://drive.google.com/thumbnail?id=1kggNvwwGfiBRv3921JBKQeDkz5w8dyGw&sz=w1600"
+    }
+  ],
+  "hero": [
+    {
+      "id": "H1",
+      "imageUrl": "https://drive.google.com/thumbnail?id=1KD8QOMPXTBS8R255pFe9HckPu31plJiv&sz=w1600",
+      "titleSmall": "LET’S GROW YOUR BRAND TOGETHER",
+      "title1": "Creative Ideas",
+      "title2": "Powerful Results",
+      "description": "We create impactful designs, engaging content and smart strategies to grow your business.",
+      "button1": "Explore Services",
+      "button1Link": "#services",
+      "button2": "Get a Free Quote",
+      "button2Link": "#contact",
+      "sort": 1,
+      "active": "YES"
+    },
+    {
+      "id": "H2",
+      "imageUrl": "",
+      "titleSmall": "BUILD YOUR BRAND WITH CONFIDENCE",
+      "title1": "Build Your Brand",
+      "title2": "Grow With Confidence",
+      "description": "From identity to campaigns, we create communication that looks premium and works for business.",
+      "button1": "Our Services",
+      "button1Link": "#services",
+      "button2": "Get a Free Quote",
+      "button2Link": "#contact",
+      "sort": 2,
+      "active": "YES"
+    },
+    {
+      "id": "H3",
+      "imageUrl": "",
+      "titleSmall": "SMART MARKETING FOR BUSINESS",
+      "title1": "Smart Marketing",
+      "title2": "Made For Business",
+      "description": "Creative design, digital marketing and print solutions under one roof.",
+      "button1": "View Products",
+      "button1Link": "#products",
+      "button2": "Contact Us",
+      "button2Link": "#contact",
+      "sort": 3,
+      "active": "YES"
+    },
+    {
+      "id": "H4",
+      "imageUrl": "",
+      "titleSmall": "PRINT • DIGITAL • BRANDING",
+      "title1": "Print & Digital",
+      "title2": "One Platform. All Solutions.",
+      "description": "A professional creative partner for businesses that want consistency everywhere.",
+      "button1": "Explore",
+      "button1Link": "#services",
+      "button2": "Contact",
+      "button2Link": "#contact",
+      "sort": 4,
+      "active": "YES"
+    },
+    {
+      "id": "H5",
+      "imageUrl": "",
+      "titleSmall": "YOUR BRAND • OUR CREATIVITY",
+      "title1": "Your Brand",
+      "title2": "Our Creativity",
+      "description": "Design-led advertising solutions for modern businesses.",
+      "button1": "See Our Work",
+      "button1Link": "#gallery",
+      "button2": "Get Quote",
+      "button2Link": "#contact",
+      "sort": 5,
+      "active": "YES"
+    }
+  ],
+  "services": [
+    {
+      "id": "S1",
+      "icon": "📣",
+      "name": "Social Media Marketing",
+      "description": "Creative campaigns & monthly content.",
+      "sort": 1,
+      "active": "YES"
+    },
+    {
+      "id": "S2",
+      "icon": "✒️",
+      "name": "Graphic Designing",
+      "description": "Premium designs for every business need.",
+      "sort": 2,
+      "active": "YES"
+    },
+    {
+      "id": "S3",
+      "icon": "🎬",
+      "name": "Video Production",
+      "description": "Reels, ads and business videos.",
+      "sort": 3,
+      "active": "YES"
+    },
+    {
+      "id": "S4",
+      "icon": "✦",
+      "name": "Branding & Logo Design",
+      "description": "Identity systems that stay memorable.",
+      "sort": 4,
+      "active": "YES"
+    },
+    {
+      "id": "S5",
+      "icon": "▣",
+      "name": "Printing & Packaging",
+      "description": "Professional print and packaging solutions.",
+      "sort": 5,
+      "active": "YES"
+    },
+    {
+      "id": "S6",
+      "icon": "</>",
+      "name": "Website & App Development",
+      "description": "Modern business websites and apps.",
+      "sort": 6,
+      "active": "YES"
+    },
+    {
+      "id": "S7",
+      "icon": "⌕",
+      "name": "SEO Services",
+      "description": "Search visibility and digital growth.",
+      "sort": 7,
+      "active": "YES"
+    }
+  ],
+  "products": [
+    {
+      "id": "P1",
+      "name": "Visiting Cards",
+      "price": "₹499",
+      "imageUrl": "https://drive.google.com/thumbnail?id=1Q750nX6T1XeFx9F7Q1XVLjbWIlOAZBNw&sz=w1600",
+      "shortDescription": "Premium visiting cards for your brand identity.",
+      "description": "High quality visiting cards with multiple paper, finish and size options.",
+      "features": "Premium paper|Matt / Gloss finish|Custom size|Fast turnaround",
+      "category": "Print",
+      "sort": 1,
+      "active": "YES"
+    },
+    {
+      "id": "P2",
+      "name": "Flyers & Brochures",
+      "price": "₹999",
+      "imageUrl": "https://drive.google.com/thumbnail?id=1gDtStg6EaNI0rKX2eXAmsktpSKr1bsH6&sz=w1600",
+      "shortDescription": "Attractive flyers & brochures for your business.",
+      "description": "Creative layouts for promotions, products, offers and corporate communication.",
+      "features": "A4 / A5 / Custom|Single / Multi page|Premium paper|Bulk printing",
+      "category": "Print",
+      "sort": 2,
+      "active": "YES"
+    },
+    {
+      "id": "P3",
+      "name": "Banners & Hoardings",
+      "price": "₹1,499",
+      "imageUrl": "https://drive.google.com/thumbnail?id=1A3Qtz-F8wUnQ7L_O3evlugEOsMN-NmCW&sz=w1600",
+      "shortDescription": "High quality outdoor & indoor banners.",
+      "description": "Large-format advertising material designed for visibility and durability.",
+      "features": "Multiple sizes|High resolution|Indoor / Outdoor|Installation optional",
+      "category": "Outdoor",
+      "sort": 3,
+      "active": "YES"
+    },
+    {
+      "id": "P4",
+      "name": "Social Media Posts",
+      "price": "₹799",
+      "imageUrl": "https://drive.google.com/thumbnail?id=1Q1zLQ1bJdnB8ZXkYQDxrS06FxJe1RnyS&sz=w1600",
+      "shortDescription": "Creative posts to boost your engagement.",
+      "description": "Professionally designed social media creatives for campaigns and regular posting.",
+      "features": "Instagram|Facebook|WhatsApp|Campaign creatives",
+      "category": "Digital",
+      "sort": 4,
+      "active": "YES"
+    },
+    {
+      "id": "P5",
+      "name": "Corporate Gifts",
+      "price": "₹299",
+      "imageUrl": "https://drive.google.com/thumbnail?id=1BETpVUyQUbYVM8ylfx-FXcyy7Y1sLDDW&sz=w1600",
+      "shortDescription": "Custom gifts for your business partners.",
+      "description": "Useful and premium gifting options with your brand identity.",
+      "features": "Custom branding|Bulk orders|Multiple categories|Corporate packaging",
+      "category": "Gifting",
+      "sort": 5,
+      "active": "YES"
+    }
+  ],
+  "plans": [
+    {
+      "id": "PL1",
+      "name": "Basic Plan",
+      "tagline": "Perfect for Startups",
+      "price": "₹5,999",
+      "period": "/month",
+      "color": "#315ee7",
+      "features": "96 Reels|264 Photo/carousel post|Festival post|Digital catalogue",
+      "sort": 1,
+      "active": "YES",
+      "buttonText": "Get Started",
+      "buttonLink": "#contact"
+    },
+    {
+      "id": "PL2",
+      "name": "Standard Plan",
+      "tagline": "Best for Growing Businesses",
+      "price": "₹9,999",
+      "period": "/month",
+      "color": "#16b981",
+      "features": "96 Reels|264 Photo/carousel post|Festival post|Digital catalogue|Handling / Management A/C|Reels Boosting",
+      "sort": 2,
+      "active": "YES",
+      "buttonText": "Get Started",
+      "buttonLink": "#contact"
+    },
+    {
+      "id": "PL3",
+      "name": "Premium Plan",
+      "tagline": "For Established Brands",
+      "price": "₹14,999",
+      "period": "/month",
+      "color": "#8b35d8",
+      "features": "96 Reels|264 Photo/carousel post|Festival post|Digital catalogue|Handling / Management A/C|Reels Boosting|Verifying leads|Daily group updates",
+      "sort": 3,
+      "active": "YES",
+      "buttonText": "Get Started",
+      "buttonLink": "#contact"
+    },
+    {
+      "id": "PL4",
+      "name": "Business Plan",
+      "tagline": "For Large Enterprises",
+      "price": "₹24,999",
+      "period": "/month",
+      "color": "#db168c",
+      "features": "96 Reels|264 Photo/carousel post|Festival post|Digital catalogue|Handling / Management A/C|Reels Boosting|Verifying leads|Daily group updates|Meta Verification",
+      "sort": 4,
+      "active": "YES",
+      "buttonText": "Get Started",
+      "buttonLink": "#contact"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "G2",
+      "section": "Social Media",
+      "type": "image",
+      "title": "Social Media Posts",
+      "mediaUrl": "https://drive.google.com/thumbnail?id=1tyV9rFXvjyc5b_FTpUkkvWEDuMix4o-P&sz=w1600",
+      "thumbUrl": "https://drive.google.com/thumbnail?id=1tyV9rFXvjyc5b_FTpUkkvWEDuMix4o-P&sz=w1600",
+      "sort": 2,
+      "active": "YES"
+    },
+    {
+      "id": "G3",
+      "section": "Video Production",
+      "type": "video",
+      "title": "Video Production",
+      "mediaUrl": "https://drive.google.com/file/d/177xE9eB-xT-w-C0B3eSGXbv1fcTNEFZ3/preview",
+      "thumbUrl": "https://drive.google.com/file/d/177xE9eB-xT-w-C0B3eSGXbv1fcTNEFZ3/preview",
+      "sort": 3,
+      "active": "YES"
+    },
+    {
+      "id": "G4",
+      "section": "Outdoor",
+      "type": "image",
+      "title": "Outdoor Hoardings",
+      "mediaUrl": "",
+      "thumbUrl": "",
+      "sort": 4,
+      "active": "YES"
+    },
+    {
+      "id": "GA198735",
+      "section": "New Gallery",
+      "type": "image",
+      "title": "images (6)",
+      "mediaUrl": "https://drive.google.com/thumbnail?id=1fgLKuws421gdCUZ20HnM3HnatiIjR7OM&sz=w1600",
+      "thumbUrl": "https://drive.google.com/thumbnail?id=1fgLKuws421gdCUZ20HnM3HnatiIjR7OM&sz=w1600",
+      "sort": 6,
+      "active": "YES"
+    },
+    {
+      "id": "GA3067780",
+      "section": "New Gallery",
+      "type": "image",
+      "title": "social media carousel post mockup smartphone 899229 1695",
+      "mediaUrl": "https://drive.google.com/thumbnail?id=1XnQy3XNSilnnxHiF0kxyostr-WbMK_Py&sz=w1600",
+      "thumbUrl": "https://drive.google.com/thumbnail?id=1XnQy3XNSilnnxHiF0kxyostr-WbMK_Py&sz=w1600",
+      "sort": 7,
+      "active": "YES"
+    },
+    {
+      "id": "GA3967695",
+      "section": "New Gallery",
+      "type": "image",
+      "title": "images (5)",
+      "mediaUrl": "https://drive.google.com/thumbnail?id=1W2GwMfMJZ_0K--fW_szWY6xssN4y65TG&sz=w1600",
+      "thumbUrl": "https://drive.google.com/thumbnail?id=1W2GwMfMJZ_0K--fW_szWY6xssN4y65TG&sz=w1600",
+      "sort": 8,
+      "active": "YES"
+    },
+    {
+      "id": "GA73513046",
+      "section": "Branding",
+      "type": "image",
+      "title": "4b1b197a3f616c540e3491467ea22287",
+      "mediaUrl": "https://drive.google.com/thumbnail?id=1gshJW_DY1dFMo97ghqyPs1cBwEpw56-1&sz=w1600",
+      "thumbUrl": "https://drive.google.com/thumbnail?id=1gshJW_DY1dFMo97ghqyPs1cBwEpw56-1&sz=w1600",
+      "sort": 9,
+      "active": "YES"
+    },
+    {
+      "id": "GA8641500",
+      "section": "Branding",
+      "type": "image",
+      "title": "4b1b197a3f616c540e3491467ea22287",
+      "mediaUrl": "https://drive.google.com/thumbnail?id=1_tdxLXwb1mMexV7Dn0bErs50W1eZm-hP&sz=w1600",
+      "thumbUrl": "https://drive.google.com/thumbnail?id=1_tdxLXwb1mMexV7Dn0bErs50W1eZm-hP&sz=w1600",
+      "sort": 9,
+      "active": "YES"
+    },
+    {
+      "id": "GA158084629",
+      "section": "New Gallery",
+      "type": "image",
+      "title": "images (5)",
+      "mediaUrl": "https://drive.google.com/thumbnail?id=10l-4YI8ryVZMyy90RrPoS5FuSe0wl9sF&sz=w1600",
+      "thumbUrl": "https://drive.google.com/thumbnail?id=10l-4YI8ryVZMyy90RrPoS5FuSe0wl9sF&sz=w1600",
+      "sort": 9,
+      "active": "YES"
+    },
+    {
+      "id": "GA158087955",
+      "section": "New Gallery",
+      "type": "image",
+      "title": "images (4)",
+      "mediaUrl": "https://drive.google.com/thumbnail?id=1baTO6cy_m9Nd0w6JKaHBo8IeWdZlrAUe&sz=w1600",
+      "thumbUrl": "https://drive.google.com/thumbnail?id=1baTO6cy_m9Nd0w6JKaHBo8IeWdZlrAUe&sz=w1600",
+      "sort": 10,
+      "active": "YES"
+    }
+  ],
+  "contact": [
+    {
+      "key": "mapEmbed",
+      "value": ""
+    },
+    {
+      "key": "contactTitle",
+      "value": "Get In Touch"
+    },
+    {
+      "key": "contactSubtitle",
+      "value": "Let’s discuss how we can help grow your business."
+    }
+  ],
+  "version": "32"
+}
